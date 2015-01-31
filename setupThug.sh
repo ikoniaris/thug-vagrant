@@ -7,7 +7,7 @@ aptitude update
 #Install required packages from repos
 aptitude -y install python2.7 python2.7-dev python-pip build-essential autoconf libtool \
 git subversion libboost-all-dev libboost-python-dev python-setuptools libxml2-dev libxslt-dev \
-graphviz mongodb
+graphviz mongodb bison
 
 #Download Thug
 cd /opt
