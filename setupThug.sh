@@ -57,6 +57,7 @@ pip install pydot2
 pip install python-magic
 pip install rarfile
 pip install pymongo
+pip install requesocks
 
 #Install Yara
 cd /opt
